@@ -1,11 +1,11 @@
 METADATA =\
 {
-	'name': 'FaceFusion',
+	'name': 'AUM LIVE',
 	'description': 'Next generation face swapper and enhancer',
 	'version': '2.6.1',
 	'license': 'MIT',
 	'author': 'Henry Ruhs',
-	'url': 'https://facefusion.io'
+	'url': 'https://aumpos.com'
 }
 
 
